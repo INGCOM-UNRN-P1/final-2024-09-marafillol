@@ -6,8 +6,8 @@ pERRo
 cachorro
 o
 gATO
-100000000110000000011000000001100000000110000000011000000001100000000110000000011000000001100000001
-a_partir_de_aca_se_exceden_caracteres
+aaaaaaaaa_aaaaaaaaa_aaaaaaaaa_aaaaaaaaa_aaaaaaaaa_aaaaaaaaa_aaaaaaaaa_aaaaaaaaa_aaaaaaaaa_aaaaaaaaa
+aca_se_pasan_los_caracteres
 manzana
 mas
 más
