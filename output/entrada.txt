@@ -1,0 +1,11 @@
+hola cómo cómo? estas hoy! hoy
+pERRo cachorro o perro
+gATO gato 
+100000000110000000011000000001100000000110000000011000000001100000000110000000011000000001100000001a_partir_de_aca_se_exceden_caracteres
+manzana
+manzana?
+manzana!
+mas más
+más mas
+ñoquis y nioquis ñoquis!
+este es un archivo de prueba dé entrada, que se pasa como argumento.
